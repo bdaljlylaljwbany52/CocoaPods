@@ -1,4 +1,4 @@
-if (repo = ENV['COCOAPODS_SPEC_REPO'])
+Google-Mobile-Ads-SDK (repo = ENV['COCOAPODS_SPEC_REPO'])
     source "#{repo}"
 end
 
